@@ -1,0 +1,27 @@
+Source code - https://github.com/completerubyprogrammer/ruby-course/tree/master/project8
+
+Car Shopping Website - https://code.evgenyrahman.com/rubycourse/carlist.html
+
+CSS Selectors - https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Selectors
+
+RubyGems - https://rubygems.org
+
+gem command reference - https://guides.rubygems.org/command-reference/
+
+HTTParty - https://github.com/jnunemaker/httparty
+
+Nokogiri - https://nokogiri.org/
+
+Commands to install gems
+
+gem install httparty
+gem install nokogiri
+Ruby Pretty Print - https://ruby-doc.org/stdlib-2.1.2/libdoc/pp/rdoc/PP.html
+
+JSON - https://www.json.org/
+
+Ruby JSON - https://ruby-doc.org/stdlib-2.6.3/libdoc/json/rdoc/JSON.html
+
+Atom Beautify - https://atom.io/packages/atom-beautify
+
+Bundler - https://bundler.io/
